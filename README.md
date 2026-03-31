@@ -84,6 +84,8 @@ You can also check connectivity between the PCs on different networks to ensure 
 # OUTPUT
 
 <img width="814" height="830" alt="image" src="https://github.com/user-attachments/assets/54cb32ce-d6eb-4689-bd22-d4559f58d3b5" />
+
+
 <img width="741" height="748" alt="image" src="https://github.com/user-attachments/assets/d8efd569-0737-4b90-97e2-fd52fa39edc3" />
 
 # RESULT:
